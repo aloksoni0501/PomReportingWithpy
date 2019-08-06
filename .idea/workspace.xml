@@ -1,0 +1,343 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3cc4d78f-a9f2-4681-ad9b-bdf1b63584fd" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/POMFile/Pages/usernameLogin.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="9" column="4" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/POMFile/Pages/passwordLogin.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="14" selection-start-line="14" selection-end-line="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/POMFile/GmailTest/Gmail_Test_Automation.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="326">
+              <caret line="46" column="24" selection-start-line="46" selection-start-column="24" selection-end-line="46" selection-end-column="24" />
+              <folding>
+                <element signature="e#0#30#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/POMFile/Pages/passwordLogin.py" />
+        <option value="$USER_HOME$/Work/PythonProjectAutomation/venv/selenium.project/Gmail_Test_Automation.py" />
+        <option value="$USER_HOME$/Work/pom complete /Gmail_Test_Automation.py" />
+        <option value="$PROJECT_DIR$/POMFile/Pages/usernameLogin.py" />
+        <option value="$PROJECT_DIR$/POMFile/GmailTest/Gmail_Test_Automation.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1440" />
+    <option name="height" value="805" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="GmailProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="GmailProject" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="GmailProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="GmailProject" type="462c0819:PsiDirectoryNode" />
+              <item name="POMFile" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="GmailProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="GmailProject" type="462c0819:PsiDirectoryNode" />
+              <item name="POMFile" type="462c0819:PsiDirectoryNode" />
+              <item name="driver" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="GmailProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="GmailProject" type="462c0819:PsiDirectoryNode" />
+              <item name="POMFile" type="462c0819:PsiDirectoryNode" />
+              <item name="GmailTest" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="GmailProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="GmailProject" type="462c0819:PsiDirectoryNode" />
+              <item name="POMFile" type="462c0819:PsiDirectoryNode" />
+              <item name="Pages" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="GmailProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="deletionFromPopupRequiresConfirmation" value="false" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Work/pom complete " />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$USER_HOME$/Work/pom complete " />
+      <recent name="$USER_HOME$/Work/PythonProjectAutomation/venv/selenium.project" />
+      <recent name="$PROJECT_DIR$/POMFile/driver" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python tests.Unittests in Gmail_Test_Automation.py">
+    <configuration name="Gmail_Test_Automation (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="GmailProject" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/Work/pom complete " />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$USER_HOME$/Work/pom complete /Gmail_Test_Automation.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Gmail_Test_Automation" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="GmailProject" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/Work/PythonProjectAutomation/venv/selenium.project" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$USER_HOME$/Work/PythonProjectAutomation/venv/selenium.project/Gmail_Test_Automation.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for Gmail_Test_Automation.GmailSearch" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="GmailProject" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/POMFile/GmailTest" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;Gmail_Test_Automation.GmailSearch&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for Gmail_Test_Automation.GmailSearch.test_login_user_valid" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="GmailProject" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/POMFile/GmailTest" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;Gmail_Test_Automation.GmailSearch.test_login_user_valid&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests in Gmail_Test_Automation.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="GmailProject" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/POMFile/GmailTest" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/POMFile/GmailTest/Gmail_Test_Automation.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python tests.Unittests in Gmail_Test_Automation.py" />
+        <item itemvalue="Python tests.Unittests for Gmail_Test_Automation.GmailSearch" />
+        <item itemvalue="Python tests.Unittests for Gmail_Test_Automation.GmailSearch.test_login_user_valid" />
+        <item itemvalue="Python.Gmail_Test_Automation (1)" />
+        <item itemvalue="Python.Gmail_Test_Automation" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3cc4d78f-a9f2-4681-ad9b-bdf1b63584fd" name="Default Changelist" comment="" />
+      <created>1565082964254</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1565082964254</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="Unittests_for_Gmail_Test_Automation_GmailSearch_test_login_user_valid - 2019.08.06 at 18h 08m 54s.xml">
+      <configuration name="Unittests for Gmail_Test_Automation.GmailSearch.test_login_user_valid" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_Gmail_Test_Automation_py - 2019.08.06 at 18h 09m 59s.xml">
+      <configuration name="Unittests in Gmail_Test_Automation.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_Gmail_Test_Automation_GmailSearch_test_login_user_valid - 2019.08.06 at 18h 11m 18s.xml">
+      <configuration name="Unittests for Gmail_Test_Automation.GmailSearch.test_login_user_valid" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_Gmail_Test_Automation_GmailSearch_test_login_user_valid - 2019.08.06 at 18h 12m 04s.xml">
+      <configuration name="Unittests for Gmail_Test_Automation.GmailSearch.test_login_user_valid" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_Gmail_Test_Automation_GmailSearch - 2019.08.06 at 18h 12m 44s.xml">
+      <configuration name="Unittests for Gmail_Test_Automation.GmailSearch" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_Gmail_Test_Automation_GmailSearch - 2019.08.06 at 18h 16m 50s.xml">
+      <configuration name="Unittests for Gmail_Test_Automation.GmailSearch" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_Gmail_Test_Automation_py - 2019.08.06 at 18h 17m 44s.xml">
+      <configuration name="Unittests in Gmail_Test_Automation.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_Gmail_Test_Automation_GmailSearch - 2019.08.06 at 18h 19m 24s.xml">
+      <configuration name="Unittests for Gmail_Test_Automation.GmailSearch" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_Gmail_Test_Automation_py - 2019.08.06 at 18h 24m 56s.xml">
+      <configuration name="Unittests in Gmail_Test_Automation.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_Gmail_Test_Automation_py - 2019.08.06 at 18h 30m 02s.xml">
+      <configuration name="Unittests in Gmail_Test_Automation.py" configurationId="tests" />
+    </history-entry>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1440" height="805" extended-state="0" />
+    <layout>
+      <window_info id="Favorites" order="0" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.24947146" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="0" visible="true" weight="0.32959327" />
+      <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
+      <window_info anchor="bottom" id="Python Console" order="2" weight="0.32959327" />
+      <window_info anchor="bottom" id="Message" order="3" />
+      <window_info anchor="bottom" id="Find" order="4" weight="0.32959327" />
+      <window_info anchor="bottom" id="Version Control" order="5" />
+      <window_info anchor="bottom" id="Run" order="6" weight="0.32959327" />
+      <window_info anchor="bottom" id="Debug" order="7" weight="0.3997195" />
+      <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="10" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$USER_HOME$/Work/PythonProjectAutomation/venv/selenium.project/Gmail_Test_Automation.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Work/pom complete /Gmail_Test_Automation.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="35" column="9" selection-start-line="35" selection-start-column="9" selection-end-line="35" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/POMFile/Pages/reports/TestResults___main__.GmailSearch_2019-08-06_17-56-51.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/POMFile/Pages/usernameLogin.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="4" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/POMFile/Pages/passwordLogin.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/POMFile/GmailTest/Gmail_Test_Automation.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="326">
+          <caret line="46" column="24" selection-start-line="46" selection-start-column="24" selection-end-line="46" selection-end-column="24" />
+          <folding>
+            <element signature="e#0#30#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
