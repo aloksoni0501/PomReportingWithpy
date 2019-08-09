@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3cc4d78f-a9f2-4681-ad9b-bdf1b63584fd" name="Default Changelist" comment="" />
+    <list default="true" id="3cc4d78f-a9f2-4681-ad9b-bdf1b63584fd" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/POMFile/Facebook/Test_facebook.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/POMFile/Pages/facebook_login_page.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/POMFile/Pages/logout_page.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/POMFile/GmailTest/Gmail_Test_Automation.py" beforeDir="false" afterPath="$PROJECT_DIR$/POMFile/GmailTest/Gmail_Test_Automation.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -9,12 +15,12 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/POMFile/Pages/usernameLogin.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="9" column="4" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
+            <state>
+              <caret selection-end-line="15" selection-end-column="88" />
             </state>
           </provider>
         </entry>
@@ -28,14 +34,44 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/POMFile/GmailTest/Gmail_Test_Automation.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="326">
-              <caret line="46" column="24" selection-start-line="46" selection-start-column="24" selection-end-line="46" selection-end-column="24" />
+            <state relative-caret-position="195">
+              <caret line="18" column="34" selection-start-line="18" selection-start-column="34" selection-end-line="18" selection-end-column="34" />
               <folding>
                 <element signature="e#0#30#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/POMFile/Facebook/Test_facebook.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="106">
+              <caret line="16" column="36" lean-forward="true" selection-start-line="16" selection-start-column="36" selection-end-line="16" selection-end-column="36" />
+              <folding>
+                <element signature="e#0#30#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/POMFile/Pages/logout_page.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="18" selection-start-line="18" selection-end-line="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/POMFile/Pages/facebook_login_page.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="7" column="57" selection-start-line="7" selection-start-column="57" selection-end-line="7" selection-end-column="57" />
             </state>
           </provider>
         </entry>
@@ -45,9 +81,13 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Python Unit Test" />
         <option value="Python Script" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -56,7 +96,17 @@
         <option value="$USER_HOME$/Work/PythonProjectAutomation/venv/selenium.project/Gmail_Test_Automation.py" />
         <option value="$USER_HOME$/Work/pom complete /Gmail_Test_Automation.py" />
         <option value="$PROJECT_DIR$/POMFile/Pages/usernameLogin.py" />
+        <option value="$PROJECT_DIR$/FacebookLogin/FaceBookPomPage/loginpage.py" />
+        <option value="$PROJECT_DIR$/FacebookLogin/Test_Login.py" />
+        <option value="$PROJECT_DIR$/FacebookLogin/FaceBookPomPage/alok.py" />
+        <option value="$PROJECT_DIR$/FacebookLogin/FaceBookPomPage/Loginpage.py" />
+        <option value="$PROJECT_DIR$/FacebookLogin/FaceBookPomPage/Homepage.py" />
+        <option value="$PROJECT_DIR$/FacebookLogin/Test/Test_Login_Page.py" />
+        <option value="$PROJECT_DIR$/POMFile/Pages/loginpage.py" />
+        <option value="$PROJECT_DIR$/POMFile/Pages/facebook_login_page.py" />
         <option value="$PROJECT_DIR$/POMFile/GmailTest/Gmail_Test_Automation.py" />
+        <option value="$PROJECT_DIR$/POMFile/Facebook/Test_facebook.py" />
+        <option value="$PROJECT_DIR$/POMFile/Pages/logout_page.py" />
       </list>
     </option>
   </component>
@@ -65,12 +115,12 @@
     <option name="width" value="1440" />
     <option name="height" value="805" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -81,13 +131,18 @@
             <path>
               <item name="GmailProject" type="b2602c69:ProjectViewProjectNode" />
               <item name="GmailProject" type="462c0819:PsiDirectoryNode" />
+              <item name=".pytest_cache" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="GmailProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="GmailProject" type="462c0819:PsiDirectoryNode" />
               <item name="POMFile" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="GmailProject" type="b2602c69:ProjectViewProjectNode" />
               <item name="GmailProject" type="462c0819:PsiDirectoryNode" />
               <item name="POMFile" type="462c0819:PsiDirectoryNode" />
-              <item name="driver" type="462c0819:PsiDirectoryNode" />
+              <item name="Facebook" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="GmailProject" type="b2602c69:ProjectViewProjectNode" />
@@ -109,15 +164,18 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="deletionFromPopupRequiresConfirmation" value="false" />
-    <property name="last_opened_file_path" value="$USER_HOME$/Work/pom complete " />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/FacebookLogin/drivers" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/FacebookLogin/drivers" />
       <recent name="$USER_HOME$/Work/pom complete " />
       <recent name="$USER_HOME$/Work/PythonProjectAutomation/venv/selenium.project" />
       <recent name="$PROJECT_DIR$/POMFile/driver" />
@@ -135,63 +193,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python tests.Unittests in Gmail_Test_Automation.py">
-    <configuration name="Gmail_Test_Automation (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="GmailProject" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$USER_HOME$/Work/pom complete " />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$USER_HOME$/Work/pom complete /Gmail_Test_Automation.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Gmail_Test_Automation" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="GmailProject" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$USER_HOME$/Work/PythonProjectAutomation/venv/selenium.project" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$USER_HOME$/Work/PythonProjectAutomation/venv/selenium.project/Gmail_Test_Automation.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Unittests for Gmail_Test_Automation.GmailSearch" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
-      <module name="GmailProject" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/POMFile/GmailTest" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;Gmail_Test_Automation.GmailSearch&quot;" />
-      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python tests.Unittests for Test_facebook.Facebook">
     <configuration name="Unittests for Gmail_Test_Automation.GmailSearch.test_login_user_valid" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
       <module name="GmailProject" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -203,6 +205,34 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
       <option name="_new_target" value="&quot;Gmail_Test_Automation.GmailSearch.test_login_user_valid&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for Test_facebook.Facebook" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="GmailProject" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/POMFile/Facebook" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;Test_facebook.Facebook&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for Test_facebook.Facebook.test_login_user_valid" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="GmailProject" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/POMFile/Facebook" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;Test_facebook.Facebook.test_login_user_valid&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
@@ -220,13 +250,49 @@
       <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
+    <configuration name="Unittests in Test_Login_Page.py" type="tests" factoryName="Unittests" nameIsGenerated="true">
+      <module name="GmailProject" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/FacebookLogin/Test" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/FacebookLogin/Test/Test_Login_Page.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests in Test_facebook.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="GmailProject" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/POMFile/Facebook" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/POMFile/Facebook/Test_facebook.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python tests.Unittests in Test_Login_Page.py" />
+      <item itemvalue="Python tests.Unittests for Test_facebook.Facebook.test_login_user_valid" />
+      <item itemvalue="Python tests.Unittests in Gmail_Test_Automation.py" />
+      <item itemvalue="Python tests.Unittests for Gmail_Test_Automation.GmailSearch.test_login_user_valid" />
+      <item itemvalue="Python tests.Unittests in Test_facebook.py" />
+      <item itemvalue="Python tests.Unittests for Test_facebook.Facebook" />
+    </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python tests.Unittests in Gmail_Test_Automation.py" />
-        <item itemvalue="Python tests.Unittests for Gmail_Test_Automation.GmailSearch" />
+        <item itemvalue="Python tests.Unittests for Test_facebook.Facebook" />
+        <item itemvalue="Python tests.Unittests in Test_facebook.py" />
+        <item itemvalue="Python tests.Unittests for Test_facebook.Facebook.test_login_user_valid" />
         <item itemvalue="Python tests.Unittests for Gmail_Test_Automation.GmailSearch.test_login_user_valid" />
-        <item itemvalue="Python.Gmail_Test_Automation (1)" />
-        <item itemvalue="Python.Gmail_Test_Automation" />
+        <item itemvalue="Python tests.Unittests in Gmail_Test_Automation.py" />
       </list>
     </recent_temporary>
   </component>
@@ -244,50 +310,51 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Unittests_for_Gmail_Test_Automation_GmailSearch_test_login_user_valid - 2019.08.06 at 18h 08m 54s.xml">
-      <configuration name="Unittests for Gmail_Test_Automation.GmailSearch.test_login_user_valid" configurationId="tests" />
+    <history-entry file="Unittests_for_Test_facebook_Facebook_test_login_user_valid - 2019.08.08 at 21h 07m 55s.xml">
+      <configuration name="Unittests for Test_facebook.Facebook.test_login_user_valid" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_in_Gmail_Test_Automation_py - 2019.08.06 at 18h 09m 59s.xml">
-      <configuration name="Unittests in Gmail_Test_Automation.py" configurationId="tests" />
+    <history-entry file="Unittests_for_Test_facebook_Facebook_test_login_user_valid - 2019.08.08 at 21h 09m 03s.xml">
+      <configuration name="Unittests for Test_facebook.Facebook.test_login_user_valid" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_for_Gmail_Test_Automation_GmailSearch_test_login_user_valid - 2019.08.06 at 18h 11m 18s.xml">
-      <configuration name="Unittests for Gmail_Test_Automation.GmailSearch.test_login_user_valid" configurationId="tests" />
+    <history-entry file="Unittests_for_Test_facebook_Facebook_test_login_user_valid - 2019.08.08 at 21h 09m 55s.xml">
+      <configuration name="Unittests for Test_facebook.Facebook.test_login_user_valid" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_for_Gmail_Test_Automation_GmailSearch_test_login_user_valid - 2019.08.06 at 18h 12m 04s.xml">
-      <configuration name="Unittests for Gmail_Test_Automation.GmailSearch.test_login_user_valid" configurationId="tests" />
+    <history-entry file="Unittests_for_Test_facebook_Facebook_test_login_user_valid - 2019.08.08 at 21h 10m 55s.xml">
+      <configuration name="Unittests for Test_facebook.Facebook.test_login_user_valid" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_for_Gmail_Test_Automation_GmailSearch - 2019.08.06 at 18h 12m 44s.xml">
-      <configuration name="Unittests for Gmail_Test_Automation.GmailSearch" configurationId="tests" />
+    <history-entry file="Unittests_for_Test_facebook_Facebook_test_login_user_valid - 2019.08.08 at 21h 12m 15s.xml">
+      <configuration name="Unittests for Test_facebook.Facebook.test_login_user_valid" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_for_Gmail_Test_Automation_GmailSearch - 2019.08.06 at 18h 16m 50s.xml">
-      <configuration name="Unittests for Gmail_Test_Automation.GmailSearch" configurationId="tests" />
+    <history-entry file="Unittests_for_Test_facebook_Facebook_test_login_user_valid - 2019.08.09 at 10h 59m 23s.xml">
+      <configuration name="Unittests for Test_facebook.Facebook.test_login_user_valid" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_in_Gmail_Test_Automation_py - 2019.08.06 at 18h 17m 44s.xml">
-      <configuration name="Unittests in Gmail_Test_Automation.py" configurationId="tests" />
+    <history-entry file="Unittests_for_Test_facebook_Facebook_test_login_user_valid - 2019.08.09 at 11h 02m 02s.xml">
+      <configuration name="Unittests for Test_facebook.Facebook.test_login_user_valid" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_for_Gmail_Test_Automation_GmailSearch - 2019.08.06 at 18h 19m 24s.xml">
-      <configuration name="Unittests for Gmail_Test_Automation.GmailSearch" configurationId="tests" />
+    <history-entry file="Unittests_for_Test_facebook_Facebook_test_login_user_valid - 2019.08.09 at 11h 04m 32s.xml">
+      <configuration name="Unittests for Test_facebook.Facebook.test_login_user_valid" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_in_Gmail_Test_Automation_py - 2019.08.06 at 18h 24m 56s.xml">
-      <configuration name="Unittests in Gmail_Test_Automation.py" configurationId="tests" />
+    <history-entry file="Unittests_in_Test_facebook_py - 2019.08.09 at 11h 06m 01s.xml">
+      <configuration name="Unittests in Test_facebook.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_in_Gmail_Test_Automation_py - 2019.08.06 at 18h 30m 02s.xml">
-      <configuration name="Unittests in Gmail_Test_Automation.py" configurationId="tests" />
+    <history-entry file="Unittests_for_Test_facebook_Facebook - 2019.08.09 at 11h 21m 26s.xml">
+      <configuration name="Unittests for Test_facebook.Facebook" configurationId="tests" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="805" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Favorites" order="0" side_tool="true" />
       <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.24947146" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="0" visible="true" weight="0.32959327" />
+      <window_info anchor="bottom" id="Terminal" order="0" weight="0.32959327" />
       <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
       <window_info anchor="bottom" id="Python Console" order="2" weight="0.32959327" />
       <window_info anchor="bottom" id="Message" order="3" />
       <window_info anchor="bottom" id="Find" order="4" weight="0.32959327" />
       <window_info anchor="bottom" id="Version Control" order="5" />
-      <window_info anchor="bottom" id="Run" order="6" weight="0.32959327" />
+      <window_info active="true" anchor="bottom" id="Run" order="6" visible="true" weight="0.32959327" />
       <window_info anchor="bottom" id="Debug" order="7" weight="0.3997195" />
       <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
@@ -312,13 +379,28 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/POMFile/Pages/reports/TestResults___main__.GmailSearch_2019-08-06_17-56-51.html">
-      <provider selected="true" editor-type-id="text-editor" />
+    <entry file="file://$PROJECT_DIR$/POMFile/Pages/reports/TestResults___main__.GmailSearch_2019-08-06_17-56-51.html" />
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor>
+            <caret column="11" lean-forward="true" selection-start-column="11" selection-end-column="11" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/FacebookLogin/reports/TestResults___main__.FacebookLogin_2019-08-08_15-59-09.html" />
+    <entry file="file://$PROJECT_DIR$/FacebookLogin/reports/TestResults___main__.FacebookLogin_2019-08-08_16-02-20.html" />
+    <entry file="file://$PROJECT_DIR$/FacebookLogin/Test_Login.py" />
+    <entry file="file://$PROJECT_DIR$/FacebookLogin/FaceBookPomPage/alok.py" />
+    <entry file="file://$PROJECT_DIR$/FacebookLogin/FaceBookPomPage/Homepage.py" />
+    <entry file="file://$PROJECT_DIR$/FacebookLogin/FaceBookPomPage/Loginpage.py" />
+    <entry file="file://$PROJECT_DIR$/FacebookLogin/Test/Test_Login_Page.py" />
     <entry file="file://$PROJECT_DIR$/POMFile/Pages/usernameLogin.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="4" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
+        <state>
+          <caret selection-end-line="15" selection-end-column="88" />
         </state>
       </provider>
     </entry>
@@ -331,8 +413,32 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/POMFile/GmailTest/Gmail_Test_Automation.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="326">
-          <caret line="46" column="24" selection-start-line="46" selection-start-column="24" selection-end-line="46" selection-end-column="24" />
+        <state relative-caret-position="195">
+          <caret line="18" column="34" selection-start-line="18" selection-start-column="34" selection-end-line="18" selection-end-column="34" />
+          <folding>
+            <element signature="e#0#30#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/POMFile/Pages/logout_page.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/POMFile/Pages/facebook_login_page.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="57" selection-start-line="7" selection-start-column="57" selection-end-line="7" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/POMFile/Facebook/Test_facebook.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="106">
+          <caret line="16" column="36" lean-forward="true" selection-start-line="16" selection-start-column="36" selection-end-line="16" selection-end-column="36" />
           <folding>
             <element signature="e#0#30#0" expanded="true" />
           </folding>

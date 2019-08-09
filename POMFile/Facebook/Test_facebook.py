@@ -1,14 +1,15 @@
 from selenium import webdriver
 import unittest
 import HtmlTestRunner
-from POMFile.Pages.usernameLogin import UserLogin
-from POMFile.Pages.passwordLogin import PassWord
+from POMFile.Pages.facebook_login_page import FacebookLogin
+from POMFile.Pages.logout_page import FacebookLogout
+
 import time
 
 
 
 
-class GmailSearch(unittest.TestCase):
+class Facebook(unittest.TestCase):
     @classmethod
     def setUpClass(cls):
         print("===================Start Testing=======================")
@@ -18,25 +19,28 @@ class GmailSearch(unittest.TestCase):
 
     def test_login_user_valid(self):
         driver = self.driver
-        driver.get("https://accounts.google.com")
+        driver.get("https://www.facebook.com")
 
-        login = UserLogin(driver)
+        login = FacebookLogin(driver)
 
-        login.enter_username("9109643374")
+        login.enter_username("6264001327")
+        time.sleep(2)
+        login.enter_password("9589965520")
 
         login.username_next_btn()
-
+        logout = FacebookLogout(driver)
+        logout.click_setting()
+        logout.click_logout()
         # password1 = PassWord(driver)
         # password1.enter_password("alok@123")
         # time.sleep(2)
         # password1.password_next_btn()
 
-
     @classmethod
-    def tearDownClass(cls):#("/Users/macbookpro/PycharmProjects/GmailProject/POMFile/Pages/reports")
-        cls.driver.close()
-        cls.driver.quit()
-        print("/n===============================Test Completed==================================")
+    def tearDownClass(cls):
+        # cls.driver.close()
+        # cls.driver.quit()
+        print("/n ===============================Test Completed==================================")
 
 
 if __name__=='__main__':
