@@ -28,6 +28,8 @@ class Facebook(unittest.TestCase):
         login.enter_password("9589965520")
 
         login.username_next_btn()
+        time.sleep(2)
+        driver.switch_to_alert().accept()
         logout = FacebookLogout(driver)
         logout.click_setting()
         logout.click_logout()
@@ -38,9 +40,9 @@ class Facebook(unittest.TestCase):
 
     @classmethod
     def tearDownClass(cls):
-        # cls.driver.close()
-        # cls.driver.quit()
-        print("/n ===============================Test Completed==================================")
+         cls.driver.close()
+         #cls.driver.quit()
+       # print("/n ===============================Test Completed==================================")
 
 
 if __name__=='__main__':
